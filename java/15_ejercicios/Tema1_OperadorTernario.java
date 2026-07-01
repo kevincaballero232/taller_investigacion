@@ -4,7 +4,7 @@ public class Tema1_OperadorTernario {
         
         int edad = 20;
 
-        // Sintaxis abreviada moderna
+       
         String mensaje = (edad >= 18) ? "Mayor de edad" : "Menor de edad";
         
         System.out.println("Edad: " + edad);
